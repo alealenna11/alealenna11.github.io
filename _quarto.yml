@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Alenna's Website"
+  author: "Norah Jones"
+  date: "14/01/2025"
+  chapters:
+    - index.qmd
+    - about.qmd
+    - travel.qmd
+    - reflections.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual

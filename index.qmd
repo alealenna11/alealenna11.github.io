@@ -1,26 +1,21 @@
 ---
-title: "newqq"
-format: html
-editor: visual
+title: "Welcome to Alenna's Website"
+format:
+  html:
+    theme: cosmo
+    toc: true
 ---
 
-## Quarto
+# Welcome to My Website!
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Hi there! Welcome to my personal website, where I share my journey, projects, and thoughts.
 
-## Running Code
+## Highlights
+- Explore my **projects** and learn about what I've been working on.
+- Read my **reflections** on various experiences.
+- Get to know more **about me** and my interests.
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Latest Update
+This website is powered by **Quarto** and hosted on **GitHub Pages**. I’m excited to share my work with the world!
 
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+Feel free to navigate using the menu above. Thank you for visiting!

@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alenna’s Website",
+    "section": "",
+    "text": "1 Welcome to My Website!\nHi there! Welcome to my personal website, where I share my journey, projects, and thoughts.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to Alenna's Website</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Alenna’s Website",
+    "section": "1.1 Highlights",
+    "text": "1.1 Highlights\n\nExplore my projects and learn about what I’ve been working on.\nRead my reflections on various experiences.\nGet to know more about me and my interests.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to Alenna's Website</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#latest-update",
+    "href": "index.html#latest-update",
+    "title": "Alenna’s Website",
+    "section": "1.2 Latest Update",
+    "text": "1.2 Latest Update\nThis website is powered by Quarto and hosted on GitHub Pages. I’m excited to share my work with the world!\nFeel free to navigate using the menu above. Thank you for visiting!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to Alenna's Website</span>"
+    ]
+  }
+]
