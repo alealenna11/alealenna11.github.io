@@ -19,6 +19,6 @@ format:
   html:
     theme: cosmo
     css: style.css
-    toc: true
+   
 
 
