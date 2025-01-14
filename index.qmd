@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Alenna's Website"
+title: "Home"
 format:
   html:
     theme: night
@@ -9,20 +9,29 @@ format:
 
 Hi there! Welcome to my personal website, where I share my journey, projects, and thoughts.
 
+![My Favourite Picture](img/Alenna.jpg){width="511"}
+
 ## Highlights
 
 -   Explore my **projects** and learn about what I've been working on.
 -   Read my **reflections** on various experiences.
 -   Get to know more **about me** and my interests.
 
-## Latest Update
+## FYP: Heartland Orientation Trail Games
 
-This website is powered by **Quarto** and hosted on **GitHub Pages**. I’m excited to share my work with the world!
+One of my most exciting projects is my **Final Year Project (FYP)**, where I developed and enhanced multiple Phaser games for the **People’s Association Heartland Orientation Trail Website**. This project aimed to engage over 300 Permanent Residents (PRs) and non-residents, helping them assimilate into Singapore’s culture and explore its places of interest.
 
-Feel free to navigate using the menu above. Thank you for visiting!
+### Project Highlights:
 
-```{r}
-# Sample R code
-numbers <- c(1, 2, 3, 4, 5)
-mean(numbers)
-```
+-   **Game Development**: Designed and enhanced **Phaser games** to improve user engagement and learning.
+-   **Technology Proficiency**: Utilized programming languages like Python, JavaScript, HTML, CSS, C#, and SQL for development and data analysis.
+-   **Deployment**: Deployed the website on **Firebase** for real-time database management.
+-   **Impact**: Improved user engagement and learning experience by **45%**.
+
+### Explore the Games
+
+Check out the games I developed on the [Heartland Orientation Trail Website](https://pa-heritage-trails-development.web.app/games.html).
+
+![Let's Explore Singapura!](img/heartland_game.png)
+
+### Feel free to navigate using the menu above. Thank you for visiting! 🤭😂

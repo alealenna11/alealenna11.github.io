@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi there! Welcome to my personal website, where I share my journey, projects, and thoughts.\n\n\n\nMy Favourite Picture\n\n\n\n\n\nExplore my projects and learn about what I’ve been working on.\nRead my reflections on various experiences.\nGet to know more about me and my interests.\n\n\n\n\nOne of my most exciting projects is my Final Year Project (FYP), where I developed and enhanced multiple Phaser games for the People’s Association Heartland Orientation Trail Website. This project aimed to engage over 300 Permanent Residents (PRs) and non-residents, helping them assimilate into Singapore’s culture and explore its places of interest.\n\n\n\nGame Development: Designed and enhanced Phaser games to improve user engagement and learning.\nTechnology Proficiency: Utilized programming languages like Python, JavaScript, HTML, CSS, C#, and SQL for development and data analysis.\nDeployment: Deployed the website on Firebase for real-time database management.\nImpact: Improved user engagement and learning experience by 45%.\n\n\n\n\nCheck out the games I developed on the Heartland Orientation Trail Website.\n\n\n\nLet’s Explore Singapura!"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "",
+    "text": "Explore my projects and learn about what I’ve been working on.\nRead my reflections on various experiences.\nGet to know more about me and my interests."
+  },
+  {
+    "objectID": "index.html#latest-update",
+    "href": "index.html#latest-update",
+    "title": "Home",
+    "section": "",
+    "text": "This website is powered by Quarto and hosted on GitHub Pages. I’m excited to share my work with the world!\nFeel free to navigate using the menu above. Thank you for visiting!\n\n# Sample R code\nnumbers &lt;- c(1, 2, 3, 4, 5)\nmean(numbers)\n\n[1] 3"
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "Travel Adventures",
+    "section": "",
+    "text": "I love traveling and exploring new places. Here are a few of my favorite destinations:\n\n\n\nKnown for the Eiffel Tower, rich history, and delicious pastries.\nHighlights:\n\nVisiting the Louvre Museum.\nStrolling along the Seine River.\nEnjoying authentic croissants.\n\n\n\n\n\n\nA city of temples, shrines, and beautiful cherry blossoms.\nHighlights:\n\nWalking through the Arashiyama Bamboo Grove.\nExperiencing traditional tea ceremonies.\nExploring Fushimi Inari Shrine.\n\n\n\n\n\n\nFamous for its breathtaking sunsets and white-washed buildings.\nHighlights:\n\nWatching sunsets in Oia.\nRelaxing on the volcanic beaches.\nTasting local seafood and wines.\n\n\n\n\n\n\n\nHere’s a few travel memories from one of my trips:\n   ————————————————————————\nLet me know if you’d like to hear more about my travel experiences!"
+  },
+  {
+    "objectID": "travel.html#exploring-the-world",
+    "href": "travel.html#exploring-the-world",
+    "title": "Travel Adventures",
+    "section": "",
+    "text": "I love traveling and exploring new places. Here are a few of my favorite destinations:\n\n\n\nKnown for the Eiffel Tower, rich history, and delicious pastries.\nHighlights:\n\nVisiting the Louvre Museum.\nStrolling along the Seine River.\nEnjoying authentic croissants.\n\n\n\n\n\n\nA city of temples, shrines, and beautiful cherry blossoms.\nHighlights:\n\nWalking through the Arashiyama Bamboo Grove.\nExperiencing traditional tea ceremonies.\nExploring Fushimi Inari Shrine.\n\n\n\n\n\n\nFamous for its breathtaking sunsets and white-washed buildings.\nHighlights:\n\nWatching sunsets in Oia.\nRelaxing on the volcanic beaches.\nTasting local seafood and wines."
+  },
+  {
+    "objectID": "travel.html#photo-memories",
+    "href": "travel.html#photo-memories",
+    "title": "Travel Adventures",
+    "section": "",
+    "text": "Here’s a few travel memories from one of my trips:\n   ————————————————————————\nLet me know if you’d like to hear more about my travel experiences!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "About me\nHello! My name is Alenna, and I am 22 years old this year. I am currently studying in SIT Bachelor of Science in Applied Computing with Fintech Specialisation.\n\n\nMy favourite animal\nI absolutely adore puppies! They bring joy, comfort, and unconditional love. Here’s a picture of my favorite puppy:\n\n\n\nMy Favorite Puppy\n\n\n\n\nEducation\nI am passionate about learning and expanding my skill set in the following areas: - Programming Languages: Python, R, SQL, JavaScript, C#, C++, Solidity and many more!! - Fintech Concepts: Blockchain, Digital Payments, Smart Contracts - Data Analytics: Machine Learning, Big Data Tools, Predictive Analytics\nThrough my academic journey, I’ve worked on exciting projects like creating Phaser games for interactive learning and leveraging data analytics to solve real-world problems.\n\n\nHobbies\nWhen I’m not studying or working on projects, I enjoy the following:\n\nReading about financial technologies and their real-world applications.\nExploring new kdrama and american romantic comedy.\nSpending time with my favorite people, especially family!\n\n\n\nMy Favourite Music Playlist"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "",
+    "text": "I am passionate about learning and expanding my skill set in the following areas: - Programming Languages: Python, R, SQL - Fintech Concepts: Blockchain, Digital Payments - Data Analytics: Machine Learning, Big Data Tools"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About me",
+    "section": "",
+    "text": "When I’m not studying or working on projects, I enjoy: - Reading about financial technologies and their real-world applications. - Exploring new cuisines and cooking recipes. - Spending time with my favorite animals, especially puppies!"
+  },
+  {
+    "objectID": "reflections.html",
+    "href": "reflections.html",
+    "title": "Reflections",
+    "section": "",
+    "text": "This year, I’ve learned the importance of self-reflection and continuous growth. Here are some of my reflections:\n\n\n\nLife often throws challenges our way. Facing these challenges has taught me resilience and the value of perseverance.\n\n\n\n\n\nPracticing gratitude helps me appreciate the small joys in life. From spending time with loved ones to achieving personal milestones, I’ve learned to value these moments."
+  },
+  {
+    "objectID": "reflections.html#personal-growth",
+    "href": "reflections.html#personal-growth",
+    "title": "Reflections",
+    "section": "",
+    "text": "This year, I’ve learned the importance of self-reflection and continuous growth. Here are some of my reflections:\n\n\n\nLife often throws challenges our way. Facing these challenges has taught me resilience and the value of perseverance.\n\n\n\n\n\nPracticing gratitude helps me appreciate the small joys in life. From spending time with loved ones to achieving personal milestones, I’ve learned to value these moments."
+  },
+  {
+    "objectID": "reflections.html#personal-growth-1",
+    "href": "reflections.html#personal-growth-1",
+    "title": "Reflections",
+    "section": "Personal Growth",
+    "text": "Personal Growth\nThis year, I’ve learned the importance of self-reflection and continuous growth. Here are some of my key reflections:\n\nFinding Joy in the Small Things\n\nLife can be hectic, but spending time with loved ones or even a furry friend brings immense joy.\nHere’s a picture of my favorite puppy that always brightens my day:"
+  },
+  {
+    "objectID": "reflections.html#reflection-on-using-genai",
+    "href": "reflections.html#reflection-on-using-genai",
+    "title": "Reflections",
+    "section": "Reflection on Using GenAI",
+    "text": "Reflection on Using GenAI\n\nBenefits\n\nEfficiency: Generative AI helps me complete tasks faster by providing quick, relevant solutions.\nLearning: It offers simplified explanations for complex concepts.\nCreativity: It inspires new ideas and unique approaches to solving problems.\n\n\n\nChallenges\n\nOver-reliance: Balancing between using AI and independent thinking is crucial.\nVerification: Ensuring accuracy is essential, as AI occasionally provides incorrect outputs."
+  },
+  {
+    "objectID": "reflections.html#looking-ahead",
+    "href": "reflections.html#looking-ahead",
+    "title": "Reflections",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nI hope to carry the lessons I’ve learned into the future—embracing challenges, staying resilient, and appreciating life’s simple joys (like spending time with puppies!).\nThank you for reading my reflections."
+  },
+  {
+    "objectID": "index.html#featured-projects-heartland-orientation-trail-games",
+    "href": "index.html#featured-projects-heartland-orientation-trail-games",
+    "title": "Home",
+    "section": "",
+    "text": "One of my most exciting projects is my Final Year Project (FYP), where I developed and enhanced multiple Phaser games for the People’s Association Heartland Orientation Trail Website. This project aimed to engage over 300 Permanent Residents (PRs) and non-residents, helping them assimilate into Singapore’s culture and explore its places of interest.\n\n\n\nGame Development: Designed and enhanced Phaser games to improve user engagement and learning.\nTechnology Proficiency: Utilized programming languages like Python, JavaScript, HTML, CSS, C#, and SQL for development and data analysis.\nDeployment: Deployed the website on Firebase for real-time database management.\nImpact: Improved user engagement and learning experience by 45%.\n\n\n\n\nCheck out the games I developed on the Heartland Orientation Trail Website.\n\n\n\nLet’s Explore Singapura!"
+  },
+  {
+    "objectID": "index.html#fyp-heartland-orientation-trail-games",
+    "href": "index.html#fyp-heartland-orientation-trail-games",
+    "title": "Home",
+    "section": "",
+    "text": "One of my most exciting projects is my Final Year Project (FYP), where I developed and enhanced multiple Phaser games for the People’s Association Heartland Orientation Trail Website. This project aimed to engage over 300 Permanent Residents (PRs) and non-residents, helping them assimilate into Singapore’s culture and explore its places of interest.\n\n\n\nGame Development: Designed and enhanced Phaser games to improve user engagement and learning.\nTechnology Proficiency: Utilized programming languages like Python, JavaScript, HTML, CSS, C#, and SQL for development and data analysis.\nDeployment: Deployed the website on Firebase for real-time database management.\nImpact: Improved user engagement and learning experience by 45%.\n\n\n\n\nCheck out the games I developed on the Heartland Orientation Trail Website.\n\n\n\nLet’s Explore Singapura!"
+  },
+  {
+    "objectID": "about.html#my-favourite-animal",
+    "href": "about.html#my-favourite-animal",
+    "title": "About me",
+    "section": "",
+    "text": "I absolutely adore puppies! They bring joy, comfort, and unconditional love. Here’s a picture of my favorite puppy:\n\n\n\nMy Favorite Puppy"
+  }
+]

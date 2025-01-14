@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: ""
 format:
   html:
     theme: night
@@ -7,24 +7,32 @@ format:
 
 # About me
 
-My name is Alenna and I am 22 this year. I am currently studying in SIT Bachelor of Science in Applied Computing with Fintech Specialisation
+Hello! My name is Alenna, and I am 22 years old this year. I am currently studying in SIT Bachelor of Science in Applied Computing with Fintech Specialisation.
 
-##My favourite animal
+# My favourite animal
 
-Here is a picture of my favorite animal, a puppy:
+I absolutely adore puppies! They bring joy, comfort, and unconditional love. Here’s a picture of my favorite puppy:
 
 ![My Favorite Puppy](img/puppy.jpg)
 
-## Education
+# Education
 
-I am passionate about learning and expanding my skill set in the following areas:
-- **Programming Languages**: Python, R, SQL
-- **Fintech Concepts**: Blockchain, Digital Payments
-- **Data Analytics**: Machine Learning, Big Data Tools
+I am passionate about learning and expanding my skill set in the following areas: - **Programming Languages**: Python, R, SQL, JavaScript, C#, C++, Solidity and many more!! - **Fintech Concepts**: Blockchain, Digital Payments, Smart Contracts - **Data Analytics**: Machine Learning, Big Data Tools, Predictive Analytics
 
-## Hobbies
+Through my **academic journey**, I’ve worked on exciting projects like creating Phaser games for **interactive learning** and leveraging **data analytics** to solve real-world problems.
 
-When I’m not studying or working on projects, I enjoy:
-- Reading about financial technologies and their real-world applications.
-- Exploring new cuisines and cooking recipes.
-- Spending time with my favorite animals, especially puppies!
+# Hobbies
+
+When I’m not *studying or working* on projects, I enjoy the following:
+
+-   Reading about *financial technologies* and their real-world applications.
+-   Exploring new *kdrama* and *american romantic comedy*.
+-   Spending time with my *favorite* people, especially family!
+
+# My Favourite Music Playlist
+![Image](img/keshi.png)
+<br>
+![Image](img/qot.png)
+
+
+
