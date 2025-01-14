@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Alenna’s Website",
     "section": "",
-    "text": "1 Welcome to My Website!\nHi there! Welcome to my personal website, where I share my journey, projects, and thoughts.",
+    "text": "1 Welcome to Alenna’s Website!\nHi there! Welcome to my personal website, where I share my journey, projects, and thoughts.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to Alenna's Website</span>"
     ]
@@ -24,9 +24,69 @@
     "href": "index.html#latest-update",
     "title": "Alenna’s Website",
     "section": "1.2 Latest Update",
-    "text": "1.2 Latest Update\nThis website is powered by Quarto and hosted on GitHub Pages. I’m excited to share my work with the world!\nFeel free to navigate using the menu above. Thank you for visiting!",
+    "text": "1.2 Latest Update\nThis website is powered by Quarto and hosted on GitHub Pages. I’m excited to share my work with the world!\nFeel free to navigate using the menu above. Thank you for visiting!\n\n# Sample R code\nnumbers &lt;- c(1, 2, 3, 4, 5)\nmean(numbers)\n\n[1] 3",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome to Alenna's Website</span>"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "2  About me",
+    "section": "",
+    "text": "3 About me\nMy name is Alenna and I am 22 this year. I am currently studying in SIT Bachelor of Science in Applied Computing with Fintech Specialisation\nMy favourite animal\n-***Education**:Your education background] - **Skills**: [List a few key skills or expertise] - **Hobbies**: [Mention a few hobbies]",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About me</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "2  About me",
+    "section": "3.1 Education",
+    "text": "3.1 Education\nI am passionate about learning and expanding my skill set in the following areas: - Programming Languages: Python, R, SQL - Fintech Concepts: Blockchain, Digital Payments - Data Analytics: Machine Learning, Big Data Tools",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About me</span>"
+    ]
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "2  About me",
+    "section": "3.2 Hobbies",
+    "text": "3.2 Hobbies\nWhen I’m not studying or working on projects, I enjoy: - Reading about financial technologies and their real-world applications. - Exploring new cuisines and cooking recipes. - Spending time with my favorite animals, especially puppies!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About me</span>"
+    ]
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "3  Travel Adventures",
+    "section": "",
+    "text": "4 Travel Adventures",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Travel Adventures</span>"
+    ]
+  },
+  {
+    "objectID": "travel.html#exploring-the-world",
+    "href": "travel.html#exploring-the-world",
+    "title": "3  Travel Adventures",
+    "section": "4.1 Exploring the World",
+    "text": "4.1 Exploring the World\nI love traveling and exploring new places. Here are a few of my favorite destinations:\n\n4.1.1 1. Paris, France\n\nKnown for the Eiffel Tower, rich history, and delicious pastries.\nHighlights:\n\nVisiting the Louvre Museum.\nStrolling along the Seine River.\nEnjoying authentic croissants.\n\n\n\n\n4.1.2 2. Kyoto, Japan\n\nA city of temples, shrines, and beautiful cherry blossoms.\nHighlights:\n\nWalking through the Arashiyama Bamboo Grove.\nExperiencing traditional tea ceremonies.\nExploring Fushimi Inari Shrine.\n\n\n\n\n4.1.3 3. Santorini, Greece\n\nFamous for its breathtaking sunsets and white-washed buildings.\nHighlights:\n\nWatching sunsets in Oia.\nRelaxing on the volcanic beaches.\nTasting local seafood and wines.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Travel Adventures</span>"
+    ]
+  },
+  {
+    "objectID": "travel.html#photo-memories",
+    "href": "travel.html#photo-memories",
+    "title": "3  Travel Adventures",
+    "section": "4.2 Photo Memories",
+    "text": "4.2 Photo Memories\nHere’s a travel memory from one of my trips:\n\n\n\nSantorini Sunset\n\n\n\nLet me know if you’d like to hear more about my travel experiences!",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Travel Adventures</span>"
     ]
   }
 ]

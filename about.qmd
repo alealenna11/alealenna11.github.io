@@ -1,5 +1,30 @@
 ---
-title: "about"
-format: html
+title: "About me"
+format:
+  html:
+    theme: night
 ---
 
+# About me
+
+My name is Alenna and I am 22 this year. I am currently studying in SIT Bachelor of Science in Applied Computing with Fintech Specialisation
+
+##My favourite animal
+
+Here is a picture of my favorite animal, a puppy:
+
+![My Favorite Puppy](img/puppy.jpg)
+
+## Education
+
+I am passionate about learning and expanding my skill set in the following areas:
+- **Programming Languages**: Python, R, SQL
+- **Fintech Concepts**: Blockchain, Digital Payments
+- **Data Analytics**: Machine Learning, Big Data Tools
+
+## Hobbies
+
+When I’m not studying or working on projects, I enjoy:
+- Reading about financial technologies and their real-world applications.
+- Exploring new cuisines and cooking recipes.
+- Spending time with my favorite animals, especially puppies!

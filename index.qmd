@@ -2,20 +2,27 @@
 title: "Welcome to Alenna's Website"
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: night
 ---
 
-# Welcome to My Website!
+# Welcome to Alenna's Website!
 
 Hi there! Welcome to my personal website, where I share my journey, projects, and thoughts.
 
 ## Highlights
-- Explore my **projects** and learn about what I've been working on.
-- Read my **reflections** on various experiences.
-- Get to know more **about me** and my interests.
+
+-   Explore my **projects** and learn about what I've been working on.
+-   Read my **reflections** on various experiences.
+-   Get to know more **about me** and my interests.
 
 ## Latest Update
+
 This website is powered by **Quarto** and hosted on **GitHub Pages**. I’m excited to share my work with the world!
 
 Feel free to navigate using the menu above. Thank you for visiting!
+
+```{r}
+# Sample R code
+numbers <- c(1, 2, 3, 4, 5)
+mean(numbers)
+```

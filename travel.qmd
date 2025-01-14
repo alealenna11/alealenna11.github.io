@@ -1,5 +1,45 @@
 ---
-title: "travel"
-format: html
+title: "Travel Adventures"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+# Travel Adventures
+
+## Exploring the World
+
+I love traveling and exploring new places. Here are a few of my favorite destinations:
+
+### 1. Paris, France
+- Known for the Eiffel Tower, rich history, and delicious pastries.
+- **Highlights**:
+  - Visiting the Louvre Museum.
+  - Strolling along the Seine River.
+  - Enjoying authentic croissants.
+
+### 2. Kyoto, Japan
+- A city of temples, shrines, and beautiful cherry blossoms.
+- **Highlights**:
+  - Walking through the Arashiyama Bamboo Grove.
+  - Experiencing traditional tea ceremonies.
+  - Exploring Fushimi Inari Shrine.
+
+### 3. Santorini, Greece
+- Famous for its breathtaking sunsets and white-washed buildings.
+- **Highlights**:
+  - Watching sunsets in Oia.
+  - Relaxing on the volcanic beaches.
+  - Tasting local seafood and wines.
+
 ---
 
+## Photo Memories
+
+Here’s a travel memory from one of my trips:
+
+![Santorini Sunset](img/disneyland.jpg)
+
+---
+
+Let me know if you’d like to hear more about my travel experiences!
