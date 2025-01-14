@@ -34,7 +34,7 @@
     "href": "about.html",
     "title": "2  About me",
     "section": "",
-    "text": "3 About me\nMy name is Alenna and I am 22 this year. I am currently studying in SIT Bachelor of Science in Applied Computing with Fintech Specialisation\nMy favourite animal\n-***Education**:Your education background] - **Skills**: [List a few key skills or expertise] - **Hobbies**: [Mention a few hobbies]",
+    "text": "2.1 Education\nI am passionate about learning and expanding my skill set in the following areas: - Programming Languages: Python, R, SQL - Fintech Concepts: Blockchain, Digital Payments - Data Analytics: Machine Learning, Big Data Tools",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>About me</span>"
     ]
@@ -53,8 +53,8 @@
     "objectID": "about.html#hobbies",
     "href": "about.html#hobbies",
     "title": "2  About me",
-    "section": "3.2 Hobbies",
-    "text": "3.2 Hobbies\nWhen I’m not studying or working on projects, I enjoy: - Reading about financial technologies and their real-world applications. - Exploring new cuisines and cooking recipes. - Spending time with my favorite animals, especially puppies!",
+    "section": "2.2 Hobbies",
+    "text": "2.2 Hobbies\nWhen I’m not studying or working on projects, I enjoy: - Reading about financial technologies and their real-world applications. - Exploring new cuisines and cooking recipes. - Spending time with my favorite animals, especially puppies!",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>About me</span>"
     ]
