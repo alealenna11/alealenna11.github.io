@@ -1,5 +1,4 @@
 
-
 project:
   type: website
 
@@ -9,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - travel.qmd
-      - reflections.qmd
-      
+      - href: about.qmd
+        text: About
+      - href: travel.qmd
+        text: Travel
+      - href: reflections.qmd
+        text: Reflections
 
 format:
   html:
@@ -20,4 +21,4 @@ format:
     css: style.css
     toc: true
 
-editor: visual
+
